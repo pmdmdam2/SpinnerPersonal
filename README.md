@@ -8,4 +8,4 @@ Diseño de la interfaz de la aplicación:
 
 Prueba de la aplicación, interfaz principal
 
-![Captura del diseño de la interfaz](https://raw.githubusercontent.com/pmdmdam2/ViewSwitcher/master/app/src/main/assets/spinner2.png)
+![Captura del diseño de la interfaz](https://raw.githubusercontent.com/pmdmdam2/SpinnerPersonal/master/app/src/main/assets/spinner2.png)
